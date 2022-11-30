@@ -1,0 +1,2 @@
+Ini hanya coba file aja
+- lagi latihan penggunaan remote git
